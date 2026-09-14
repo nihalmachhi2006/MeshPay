@@ -43,7 +43,3 @@ Open http://localhost:8080 for the dashboard.
 ```bash
 pytest tests/ -v
 ```
-
-## Notes
-
-This project is a demo, not a production UPI implementation. It shows the packet flow, encryption, duplicate protection, and settlement logic in a compact FastAPI app.
